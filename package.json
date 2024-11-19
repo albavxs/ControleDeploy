@@ -19,7 +19,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "homepage": "https://<albavxs>.github.io/ControlePessoalDeploy/",
+    "homepage": "https://<albavxs>.github.io/ControleDeploy/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
